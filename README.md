@@ -8,6 +8,6 @@ A starting point that never converges:
 
 ![alt text](https://github.com/mthelm85/newton-raphson-plot/blob/master/Newton-Raphson2.gif "Newton-Raphson Plot")
 
-A starting point that eventually converges, after taking a long strange trip down the curve :blue_heart: :zap: :red_heart: :skull::
+A starting point that eventually converges, after taking a long strange trip down the curve :blue_heart: :zap: :heart: :skull::
 
 ![alt text](https://github.com/mthelm85/newton-raphson-plot/blob/master/Newton-Raphson3.gif "Newton-Raphson Plot")
